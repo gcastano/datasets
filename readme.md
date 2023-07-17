@@ -10,7 +10,7 @@ Cada dataset es extraído de fuentes públicas y consolidado para que quede más
 
 ## Datasets disponibles
 
-- **gapminder_data.csv** Archivo creado con varios datos consolidados de la página https://www.gapminder.org/data/ sobre datos demográficos por país, proyectados hasta el 2100
+- [**gapminder_data.csv**](https://github.com/gcastano/datasets/blob/main/gapminder_data.csv) (26,878 registros 178 países)Archivo creado con varios datos consolidados de la página https://www.gapminder.org/data/ sobre datos demográficos por país, proyectados hasta el 2100
 
     | Campo | Tipo de datos |Descripción|
     | ------------- | ------------- |------------- |
