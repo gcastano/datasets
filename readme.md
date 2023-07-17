@@ -22,3 +22,5 @@ Cada dataset es extraído de fuentes públicas y consolidado para que quede más
     | mean_house_income  | float | Ingreso promedio año en US$
     | median_age_year  | float |Mediana de la edad de la población
     | population  | float |Total de la población, redondeada a miles o millones
+
+  Créditos FREE DATA FROM WORLD BANK VIA [GAPMINDER.ORG](https://www.gapminder.org/), CC-BY LICENSE [Read more](https://www.gapminder.org/free-material/)
