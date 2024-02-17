@@ -1,7 +1,7 @@
  
 # Datasets para practicar y aprender Ciencia de datos
 
-Comparto datasets que voy consolidando que uso para ejemplos de código en el blog https://ellocodelosdatos.blogspot.com/ y que pueden ser útiles para quienes deseen aprender y practicar Python para Ciencia de datos.
+Comparto datasets que voy consolidando que uso para ejemplos de código en el blog https://ellocodelosdatos.blogspot.com/ y los tutoriales del canal de Youtube https://www.youtube.com/@ellocodelosdatos y que pueden ser útiles para quienes deseen aprender y practicar Python para Ciencia de datos.
 
 Cada dataset es extraído de fuentes públicas y consolidado para que quede más fácil de de usar.
 
@@ -83,6 +83,26 @@ Cada dataset es extraído de fuentes públicas y consolidado para que quede más
     |	Children	|	float	|	Género	|
     |	DIY	|	float	|	Género	|
     |	Nature	|	float	|	Género	|
+
+- **Ventas simuladas para el año 2023 de tienda en línea de tecnología** Este dataset es ideal para aprender a crear tableros o dashboards de ventas y generar análisis comerciales. Tiene 5000 registros.
+
+    Los campos son:
+     |Campo|Tipo de Datos|Descripción|
+     |	--------------	|	--------------	|	--------------	|
+     |orden|int|Orden de compra|
+     |anio|int|Año compra|
+     |mes|int|Mes Compra|
+     |dia|int|Día Compra|
+     |fecha|datetime|Fecha compra|
+     |pais|string|
+     |ciudad|string|
+     |categoría|string|Categoría de productos|
+     |producto|string|Nombre producto|
+     |precio|int|Precio general|
+     |util_porcent|float|Porcentaje de utilidad del producto|
+     |Cantidad|int|Cantidad comprada|
+     |Total|int|Total de la compra|
+     |utilidad|float|Utilidad obtenida|
 
 ## Cómo usarlos
 Solo deben ir a cada dataset y tomar el código de su enlace raw y usarlo en sus códigos de Google Colab o Jupyter notebook directamente:
